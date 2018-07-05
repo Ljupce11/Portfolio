@@ -1,0 +1,28 @@
+{
+  "name": "lvRipple",
+  "description": "Ripple effects for jQuery",
+  "main": "index.js",
+  "authors": [
+    "Antonio Dal Sie"
+  ],
+  "license": "ISC",
+  "homepage": "https://lv-ripple.antoniodalsie.com/",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.0",
+    "pointer_events_polyfill": "kmewhort/pointer_events_polyfill"
+  },
+  "keywords": [
+    "Ripple",
+    "Material",
+    "Design",
+    "jQuery",
+    "Plugin"
+  ]
+}
